@@ -104,8 +104,3 @@ This preserves dataset completeness without introducing misleading numeric assum
 
      
 
-* Shorten this for a **portfolio website**
-* Rewrite it in a **more technical / recruiter-focused tone**
-* Add **EDA screenshots and insights**
-
-Just tell me 👌
